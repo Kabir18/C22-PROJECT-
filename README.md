@@ -1,2 +1,1 @@
-# C22-PROJECT-
-helicopter-practice-physics engine
+# Kartikey- Project 22
